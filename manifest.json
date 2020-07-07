@@ -1,0 +1,8 @@
+{
+    "domain": "hassproxy",
+    "name": "Hass Proxy",
+    "documentation": "https://github.com/dhso/hassporxy",
+    "requirements": [],
+    "codeowners": ["dhso@163.com"],
+    "dependencies": []
+}
